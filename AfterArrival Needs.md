@@ -54,4 +54,11 @@ Currently implemented tech that I need to learn how to use and document the basi
 
 ---
 
-- 
+- Ring claims to be compatible with a model of Schlage door locks via their site
+    * [Encode Smart WiFi Deadbolt](https://ring.com/products/schlage-encode-deadbolt/color/satinnickel)
+    * Schlage is compatible with OwnerRev
+
+- Ring is also compatible with a Yale lock
+    * [Real Living Assure Lock SL](https://ring.com/products/smart-locks-yale)
+    * the brand we use at home
+
